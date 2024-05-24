@@ -91,7 +91,7 @@ test_0 (__main__.lab2out.test_0)
 [Lab 2 Output and Email Verification] ... ok
 
 ----------------------------------------------------------------------
-Ran 44 tests in 0.242s
+Ran 44 tests in 0.241s
 
 OK
 OPS445 Lab Report - System Information for running ./CheckLab2.py
@@ -103,5 +103,5 @@ OPS445 Lab Report - System Information for running ./CheckLab2.py
     Python version:  3.12.3 (main, Apr 17 2024, 00:00:00) [GCC 14.0.1 20240411 (Red Hat 14.0.1-0)]
     OS Platform: linux
     Working Directory: /home/parsabalari/ops445/lab2
-    Start at: Fri May 24 16:26:11 2024
+    Start at: Fri May 24 16:30:13 2024
 =================================================================
