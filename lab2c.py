@@ -2,8 +2,6 @@
 
 import sys
 
-import sys
-
 name = sys.argv[1]  
 age = int(sys.argv[2])
 
